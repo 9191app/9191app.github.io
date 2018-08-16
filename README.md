@@ -1,6 +1,6 @@
 #Hux Blog
 
-###[View Live Hux Blog &rarr;](http://huxpro.github.io)
+###[View Live Hux Blog &rarr;](http:// h uxpro.g ithub.io)
 
 
 ### "Page Build Warning" email
