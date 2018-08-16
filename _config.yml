@@ -1,11 +1,11 @@
 # Site settings
-title: Lee 4519 Blog
-SEOTitle: Lee4519的博客 | iOSer Blog
+title: 最美APP Blog
+SEOTitle: 最美APP的博客 | 9191APP Blog
 header-img: img/home-bg.jpg
 email: andy451984648@gmail.com
 description: "描述"
-keyword: "关键词，Lee 4519，Lee4519，"
-url: "http://andylee4519.github.io"              # your host, for absolute URL
+keyword: "关键词，Lee 4519，Lee4519，9191app，最美，最美APP"
+url: "http://9191app.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
