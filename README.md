@@ -1,4 +1,4 @@
-#Hux Blog
+
 
 ###[View Live Hux Blog &rarr;](http:// h uxpro.g ithub.io)
 
